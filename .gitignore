@@ -1,8 +1,0 @@
-node_modules
-dist/
-.tmp
-app.yaml
-
-.idea
-.idea/
-.idea/workspace.xml
